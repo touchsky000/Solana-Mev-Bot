@@ -122,7 +122,7 @@ npm  install
 3.  **🚀 Launch the Application**:
 - After successful dependency installation, launch the application with the following command:
 ```bash
-node  mev.js
+node  index.js
 ```
 - If everything works correctly, the application will start, and you will see corresponding messages in the terminal.
 ---
