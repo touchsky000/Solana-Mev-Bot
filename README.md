@@ -21,7 +21,9 @@ This bot is using ```Raydium```, ```Jupiter```, ```Pump.fun```
 
 -  **💳 Purchase Amount Settings**: Set a fixed amount or a percentage of the balance for purchases.
 
-
+<tr>
+<img src="./asset/Solana-MevBot.gif">
+</tr>
 
 ### Here are some screenshots demonstrating its operation:
 
