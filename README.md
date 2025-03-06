@@ -11,6 +11,14 @@ This bot is using ```Raydium```, ```Jupiter```, ```Pump.fun```
 - **💸 Market Cap Filtering**: Excludes low-cap tokens.
 - **💳 Flexible Purchases**: Set fixed amounts or balance percentages.
 
+
+## 🐱‍🏍 Environment
+```
+NodeJS version: >= 22.0
+PC: Validate Node of Solana
+```
+
+
 ## ⚙️ Bot Settings
 
 -  **💰 Stop-Loss and Take-Profit**: Set thresholds for automatic sales when reaching desired profit or minimal losses.
@@ -150,16 +158,10 @@ npm start
 6. ## **🚀 Start the Bot**:
 - Click `Start` to begin operations.
 
-7.  **💸 Withdraw Funds and Stop the Bot**:
+7. ## **💸 Withdraw Funds and Stop the Bot**:
 
 - Go to the `Withdraw` section.
 
 - Enter the wallet address where you want to send funds.
 
 - Confirm the withdrawal to stop the bot's operations.
-
------
-
-## 📜 License
-
-This project is licensed under the MIT License. Details can be found in the `LICENSE` file.
